@@ -6,8 +6,10 @@ html {
 body {
   height: 95%;
   width: 100%;
-  font-family: sans-serif;
-  background-image: url('http://addyosmani.com/blog/wp-content/uploads/2013/04/unicorn.jpg');
+  font-family: cursive, sans-serif;
+  font-style: italic, bold;
+  background-image: url('http://www.freelargeimages.com/wp-content/uploads/2014/12/Black_background-2.jpg');
+  background-image: repeat;
 }
 
 .main-container {
@@ -15,7 +17,7 @@ body {
   margin: 10px auto;
   background: rgba(255, 255, 255, 0.86);
   padding: 5px;
-  border-radius: 10px;
+  border-radius: 20px;
 }
 
 .main-container h1 {
